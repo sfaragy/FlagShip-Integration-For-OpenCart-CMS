@@ -1,9 +1,11 @@
 # FlagShip-Integration-For-OpenCart-CMS
 Flagship Shipping Integration features:
 
-    ✔ Automatically calculate shipping cost with Fedex, UPS,        USPS, Canpar, GLS, Purolator, DHL etc. 
+    ✔ Automatically calculate shipping cost with Fedex, UPS, 
+       USPS, Canpar, GLS, Purolator, DHL etc. 
 
-    ✔ Process order with all favorite shipping methods and           your customer can choose as they wish 
+    ✔ Process order with all favorite shipping methods and
+       your customer can choose as they wish 
 
     ✔ Multi Currency Supported
 
@@ -15,7 +17,8 @@ Flagship Shipping Integration features:
 
     ✔ Allow custom box sizing and cost calculation
 
-    ✔ We offer any kind of customization based on demand (Fee        applicable) 
+    ✔ We offer any kind of customization based on demand (Fee
+        applicable) 
 
 To by complete extension please visit:
 https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=43161
@@ -25,6 +28,7 @@ Please follow this video to do your installation within a minute maximum:
 Video demo: 
 [![Alt text](https://img.youtube.com/vi/RdvKuTwy3YI/0.jpg)](https://www.youtube.com/watch?v=RdvKuTwy3YI)
 
+https://www.youtube.com/watch?v=RdvKuTwy3YI
 
 Visit my official site: <a href="https://www.bangloss.com" target="_blank">https://www.bangloss.com</a>
 
